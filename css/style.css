@@ -1,0 +1,12 @@
+.logo {
+    border-radius: 1px;
+}
+.nav-hover:hover {
+    color:red !important ;
+}
+img, iframe {
+    border-radius: 35px;
+}
+.cv:hover , .cv:active {
+    scale: 2.2;
+}
